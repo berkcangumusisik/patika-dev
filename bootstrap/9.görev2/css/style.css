@@ -1,0 +1,89 @@
+body{
+  padding: 80px;
+  background-color: rgba(var(--b3f,250,250,250),1);;
+}
+
+.navbar{
+  height: 54px;
+  background-color: #fff;
+}
+
+.navbar .logo{
+  margin-left: 192px;
+}
+
+::placeholder{
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  background-position: 40%;
+  background-size: 6%;
+  background-image: url(/assets/search-solid.svg);
+  background-repeat: no-repeat;
+}
+
+input.empty {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    background-color: #FAFAFA;
+}
+
+.postuserfont {
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+
+.storyphoto {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  margin-right: 7px;
+}
+
+.storytext {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+.rightpanellinks {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.rightpanellinks:hover {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.card-header i{
+  float: right;
+  margin-top: 2px;
+}
+
+.card-header{
+  background-color: #fff;
+}
+
+.card-footer{
+  background-color: #fff;
+}
+
+.card{
+  margin-bottom: 20px;
+}
+
+#sticky-sidebar{
+  position: sticky;
+  top: 50px;
+}
+
+.rightpanel{
+  border: 0;
+  background-color: rgba(var(--b3f,250,250,250),1);
+}
