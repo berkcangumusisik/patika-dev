@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #d1b992;
+    font-size: large;
+    }
+h1,h4
+{
+    color: #e90813;
+    font-size: x-large;
+}
+ul
+{
+    list-style-position: inside;
+}
