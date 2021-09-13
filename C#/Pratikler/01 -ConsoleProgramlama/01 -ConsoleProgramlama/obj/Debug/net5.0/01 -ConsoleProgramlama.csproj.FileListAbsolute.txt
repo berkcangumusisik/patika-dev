@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\bin\Debug\net5.0\01 -ConsoleProgramlama.exe
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\bin\Debug\net5.0\01 -ConsoleProgramlama.deps.json
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\bin\Debug\net5.0\01 -ConsoleProgramlama.runtimeconfig.json
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\bin\Debug\net5.0\01 -ConsoleProgramlama.runtimeconfig.dev.json
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\bin\Debug\net5.0\01 -ConsoleProgramlama.dll
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\bin\Debug\net5.0\ref\01 -ConsoleProgramlama.dll
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\bin\Debug\net5.0\01 -ConsoleProgramlama.pdb
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.AssemblyInfo.cs
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.dll
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\ref\01 -ConsoleProgramlama.dll
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.pdb
+C:\Users\BERKCAN\Desktop\kodlar\Patika Dev Eğitimleri\C#\Pratikler\01 -ConsoleProgramlama\01 -ConsoleProgramlama\obj\Debug\net5.0\01 -ConsoleProgramlama.genruntimeconfig.cache
