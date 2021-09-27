@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\bin\Debug\net5.0\03-Operators.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\bin\Debug\net5.0\03-Operators.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\bin\Debug\net5.0\03-Operators.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\bin\Debug\net5.0\03-Operators.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\bin\Debug\net5.0\03-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\bin\Debug\net5.0\ref\03-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\bin\Debug\net5.0\03-Operators.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\ref\03-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\03-Operators\03-Operators\obj\Debug\net5.0\03-Operators.genruntimeconfig.cache
