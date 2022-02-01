@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\bin\Debug\net5.0\04-TipDonusumleri.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\bin\Debug\net5.0\04-TipDonusumleri.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\bin\Debug\net5.0\04-TipDonusumleri.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\bin\Debug\net5.0\04-TipDonusumleri.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\bin\Debug\net5.0\04-TipDonusumleri.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\bin\Debug\net5.0\ref\04-TipDonusumleri.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\bin\Debug\net5.0\04-TipDonusumleri.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\ref\04-TipDonusumleri.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\04-TipDonusumleri\obj\Debug\net5.0\04-TipDonusumleri.genruntimeconfig.cache
