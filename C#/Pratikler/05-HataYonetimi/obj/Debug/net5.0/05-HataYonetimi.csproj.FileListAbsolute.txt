@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\bin\Debug\net5.0\05-HataYonetimi.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\bin\Debug\net5.0\05-HataYonetimi.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\bin\Debug\net5.0\05-HataYonetimi.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\bin\Debug\net5.0\05-HataYonetimi.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\bin\Debug\net5.0\05-HataYonetimi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\bin\Debug\net5.0\ref\05-HataYonetimi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\bin\Debug\net5.0\05-HataYonetimi.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\ref\05-HataYonetimi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\05-HataYonetimi\obj\Debug\net5.0\05-HataYonetimi.genruntimeconfig.cache
