@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\bin\Debug\net5.0\06-if-else.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\bin\Debug\net5.0\06-if-else.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\bin\Debug\net5.0\06-if-else.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\bin\Debug\net5.0\06-if-else.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\bin\Debug\net5.0\06-if-else.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\bin\Debug\net5.0\ref\06-if-else.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\bin\Debug\net5.0\06-if-else.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\ref\06-if-else.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\06-if-else\obj\Debug\net5.0\06-if-else.genruntimeconfig.cache
