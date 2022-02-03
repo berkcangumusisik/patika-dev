@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\bin\Debug\net5.0\07-switchCase.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\bin\Debug\net5.0\07-switchCase.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\bin\Debug\net5.0\07-switchCase.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\bin\Debug\net5.0\07-switchCase.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\bin\Debug\net5.0\07-switchCase.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\bin\Debug\net5.0\ref\07-switchCase.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\bin\Debug\net5.0\07-switchCase.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\ref\07-switchCase.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\07-switchCase\obj\Debug\net5.0\07-switchCase.genruntimeconfig.cache
