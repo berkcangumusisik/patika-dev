@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\bin\Debug\net5.0\08-forLoop.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\bin\Debug\net5.0\08-forLoop.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\bin\Debug\net5.0\08-forLoop.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\bin\Debug\net5.0\08-forLoop.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\bin\Debug\net5.0\08-forLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\bin\Debug\net5.0\ref\08-forLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\bin\Debug\net5.0\08-forLoop.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\ref\08-forLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\08-forLoop\obj\Debug\net5.0\08-forLoop.genruntimeconfig.cache
