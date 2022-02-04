@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\bin\Debug\net5.0\09-whileLoop.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\bin\Debug\net5.0\09-whileLoop.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\bin\Debug\net5.0\09-whileLoop.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\bin\Debug\net5.0\09-whileLoop.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\bin\Debug\net5.0\09-whileLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\bin\Debug\net5.0\ref\09-whileLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\bin\Debug\net5.0\09-whileLoop.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\ref\09-whileLoop.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\09-whileLoop\obj\Debug\net5.0\09-whileLoop.genruntimeconfig.cache
