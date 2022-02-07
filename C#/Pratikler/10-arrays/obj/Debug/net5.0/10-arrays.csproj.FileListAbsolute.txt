@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\bin\Debug\net5.0\10-arrays.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\bin\Debug\net5.0\10-arrays.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\bin\Debug\net5.0\10-arrays.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\bin\Debug\net5.0\10-arrays.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\bin\Debug\net5.0\10-arrays.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\bin\Debug\net5.0\ref\10-arrays.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\bin\Debug\net5.0\10-arrays.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\ref\10-arrays.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\10-arrays\obj\Debug\net5.0\10-arrays.genruntimeconfig.cache
