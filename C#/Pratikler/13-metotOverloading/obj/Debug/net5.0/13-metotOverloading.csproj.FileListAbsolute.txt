@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\bin\Debug\net5.0\13-metotOverloading.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\bin\Debug\net5.0\13-metotOverloading.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\bin\Debug\net5.0\13-metotOverloading.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\bin\Debug\net5.0\13-metotOverloading.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\bin\Debug\net5.0\13-metotOverloading.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\bin\Debug\net5.0\ref\13-metotOverloading.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\bin\Debug\net5.0\13-metotOverloading.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\ref\13-metotOverloading.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\13-metotOverloading\obj\Debug\net5.0\13-metotOverloading.genruntimeconfig.cache
