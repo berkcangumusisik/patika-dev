@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\bin\Debug\net5.0\14-rekursifVeExtensionMetotlar.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\bin\Debug\net5.0\14-rekursifVeExtensionMetotlar.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\bin\Debug\net5.0\14-rekursifVeExtensionMetotlar.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\bin\Debug\net5.0\14-rekursifVeExtensionMetotlar.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\bin\Debug\net5.0\14-rekursifVeExtensionMetotlar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\bin\Debug\net5.0\ref\14-rekursifVeExtensionMetotlar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\bin\Debug\net5.0\14-rekursifVeExtensionMetotlar.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\ref\14-rekursifVeExtensionMetotlar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\14-rekursifVeExtensionMetotlar\obj\Debug\net5.0\14-rekursifVeExtensionMetotlar.genruntimeconfig.cache
