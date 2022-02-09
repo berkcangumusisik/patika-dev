@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "algoritmaSorusu3/1.0.0": {
+        "runtime": {
+          "algoritmaSorusu3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritmaSorusu3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
