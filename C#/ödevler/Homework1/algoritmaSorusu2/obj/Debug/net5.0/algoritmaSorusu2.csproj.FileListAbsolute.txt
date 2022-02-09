@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\bin\Debug\net5.0\algoritmaSorusu2.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\bin\Debug\net5.0\algoritmaSorusu2.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\bin\Debug\net5.0\algoritmaSorusu2.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\bin\Debug\net5.0\algoritmaSorusu2.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\bin\Debug\net5.0\algoritmaSorusu2.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\bin\Debug\net5.0\ref\algoritmaSorusu2.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\bin\Debug\net5.0\algoritmaSorusu2.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\ref\algoritmaSorusu2.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\Homework1\algoritmaSorusu2\obj\Debug\net5.0\algoritmaSorusu2.genruntimeconfig.cache
