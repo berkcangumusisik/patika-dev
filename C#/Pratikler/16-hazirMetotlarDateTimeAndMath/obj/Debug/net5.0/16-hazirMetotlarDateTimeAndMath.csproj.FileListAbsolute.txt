@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\bin\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\bin\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\bin\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\bin\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\bin\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\bin\Debug\net5.0\ref\16-hazirMetotlarDateTimeAndMath.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\bin\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\ref\16-hazirMetotlarDateTimeAndMath.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\16-hazirMetotlarDateTimeAndMath\obj\Debug\net5.0\16-hazirMetotlarDateTimeAndMath.genruntimeconfig.cache
