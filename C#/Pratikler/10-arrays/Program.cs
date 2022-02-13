@@ -6,6 +6,7 @@ namespace _10_arrays
     {
         static void Main(string[] args)
         {
+            
             int[] sayiDizisi = {23,12,86,72,3,11,17,4};
             Console.WriteLine("********Sırasız Dizi ****");
             foreach (var sayi in sayiDizisi)
