@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\bin\Debug\net5.0\18-arrayList.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\bin\Debug\net5.0\18-arrayList.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\bin\Debug\net5.0\18-arrayList.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\bin\Debug\net5.0\18-arrayList.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\bin\Debug\net5.0\18-arrayList.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\bin\Debug\net5.0\ref\18-arrayList.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\bin\Debug\net5.0\18-arrayList.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\ref\18-arrayList.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\18-arrayList\obj\Debug\net5.0\18-arrayList.genruntimeconfig.cache
