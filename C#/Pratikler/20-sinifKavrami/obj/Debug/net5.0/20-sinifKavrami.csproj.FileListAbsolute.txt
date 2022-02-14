@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\bin\Debug\net5.0\20-sinifKavrami.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\bin\Debug\net5.0\20-sinifKavrami.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\bin\Debug\net5.0\20-sinifKavrami.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\bin\Debug\net5.0\20-sinifKavrami.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\bin\Debug\net5.0\20-sinifKavrami.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\bin\Debug\net5.0\ref\20-sinifKavrami.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\bin\Debug\net5.0\20-sinifKavrami.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\ref\20-sinifKavrami.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\20-sinifKavrami\obj\Debug\net5.0\20-sinifKavrami.genruntimeconfig.cache
