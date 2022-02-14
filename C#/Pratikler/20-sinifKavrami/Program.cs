@@ -17,8 +17,8 @@ namespace _20_sinifKavrami
             Calisan calisan2 = new Calisan();
             calisan2.Ad = "Şevval";
             calisan2.Soyad = "Baydemir";
-            calisan1.No = 123457;
-            calisan1.Departman = "Sosyal Medya";
+            calisan2.No = 123457;
+            calisan2.Departman = "Sosyal Medya";
 
             calisan2.CalisanBilgiler();
         }
