@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\bin\Debug\net5.0\23-staticSiniflar.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\bin\Debug\net5.0\23-staticSiniflar.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\bin\Debug\net5.0\23-staticSiniflar.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\bin\Debug\net5.0\23-staticSiniflar.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\bin\Debug\net5.0\23-staticSiniflar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\bin\Debug\net5.0\ref\23-staticSiniflar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\bin\Debug\net5.0\23-staticSiniflar.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\ref\23-staticSiniflar.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\23-staticSiniflar\obj\Debug\net5.0\23-staticSiniflar.genruntimeconfig.cache
