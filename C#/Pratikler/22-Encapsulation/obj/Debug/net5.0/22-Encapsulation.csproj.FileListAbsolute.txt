@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\bin\Debug\net5.0\22-Encapsulation.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\bin\Debug\net5.0\22-Encapsulation.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\bin\Debug\net5.0\22-Encapsulation.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\bin\Debug\net5.0\22-Encapsulation.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\bin\Debug\net5.0\22-Encapsulation.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\bin\Debug\net5.0\ref\22-Encapsulation.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\bin\Debug\net5.0\22-Encapsulation.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\ref\22-Encapsulation.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\22-Encapsulation\obj\Debug\net5.0\22-Encapsulation.genruntimeconfig.cache
