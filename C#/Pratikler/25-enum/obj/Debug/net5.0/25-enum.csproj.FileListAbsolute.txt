@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\bin\Debug\net5.0\25-enum.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\bin\Debug\net5.0\25-enum.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\bin\Debug\net5.0\25-enum.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\bin\Debug\net5.0\25-enum.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\bin\Debug\net5.0\25-enum.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\bin\Debug\net5.0\ref\25-enum.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\bin\Debug\net5.0\25-enum.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\ref\25-enum.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\25-enum\obj\Debug\net5.0\25-enum.genruntimeconfig.cache
