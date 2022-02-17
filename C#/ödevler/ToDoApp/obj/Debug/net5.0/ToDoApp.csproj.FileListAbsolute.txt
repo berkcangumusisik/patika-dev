@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\bin\Debug\net5.0\ToDoApp.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\bin\Debug\net5.0\ToDoApp.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\bin\Debug\net5.0\ToDoApp.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\bin\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\bin\Debug\net5.0\ToDoApp.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\ToDoApp\obj\Debug\net5.0\ToDoApp.genruntimeconfig.cache
