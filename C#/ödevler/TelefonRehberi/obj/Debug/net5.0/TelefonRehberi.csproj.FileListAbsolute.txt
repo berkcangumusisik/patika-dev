@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\bin\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\ref\TelefonRehberi.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\ödevler\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.genruntimeconfig.cache
