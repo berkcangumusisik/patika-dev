@@ -10,6 +10,13 @@ namespace _26_inheritance
 
         }
 
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki(); // üst sınıftaki komutları çalıştırır.
+            Console.WriteLine("Bitkiler güneşe tepki verir.");
+
+        }
+
     }
 
     public class TohumluBitkiler : Bitkiler
@@ -40,6 +47,8 @@ namespace _26_inheritance
         {
             Console.WriteLine("Tohumsuz bitkiler sporla çoğalır.");
         }
+
+
     }
 
 }

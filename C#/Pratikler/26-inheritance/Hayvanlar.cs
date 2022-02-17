@@ -2,16 +2,22 @@ using System;
 
 namespace _26_inheritance
 {
-    public class Hayvanlar: Canlilar
+    public class Hayvanlar : Canlilar
     {
-        protected void Adaptasyon()
+        public void Adaptasyon()
         {
             Console.WriteLine("Hayvanlar adaptasyon kurabilirler");
 
         }
+
+        public ovveride void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki(); 
+            Console.WriteLine("Hayvanlar güneşe tepki verir.");
+        }
     }
 
-    public class Surungenler:Hayvanlar
+    public class Surungenler : Hayvanlar
     {
         public Surungenler()
         {
@@ -25,7 +31,7 @@ namespace _26_inheritance
             Console.WriteLine("Sürüngenler sürünerek hareket eder.");
         }
     }
-    public class Kus :Hayvanlar 
+    public class Kus : Hayvanlar
     {
         public Kus()
         {
