@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\bin\Debug\net5.0\24-Struct.exe
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\bin\Debug\net5.0\24-Struct.deps.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\bin\Debug\net5.0\24-Struct.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\bin\Debug\net5.0\24-Struct.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\bin\Debug\net5.0\24-Struct.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\bin\Debug\net5.0\ref\24-Struct.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\bin\Debug\net5.0\24-Struct.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\ref\24-Struct.dll
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.pdb
+C:\Users\BERKCAN\Documents\GitHub\patika-dev\C#\Pratikler\24-Struct\obj\Debug\net5.0\24-Struct.genruntimeconfig.cache
